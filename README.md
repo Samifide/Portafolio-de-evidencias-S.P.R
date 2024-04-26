@@ -1,2 +1,2 @@
 samantha perez rojas
-practicas realizadas durante el curso de progrmacion basica python
+practicas realizadas durante el curso de programacion basica python
