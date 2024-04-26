@@ -1,0 +1,67 @@
+Universidad Fidelitas 
+19-1-2024
+Progrmacion basica
+clase 1
+Ejercicio :  resolver problema 
+1.
+Consideremos la siguiente situación a resolver.
+Nos disponemos a salir de nuestra casa y detectamos que una de las
+llantas de nuestro vehículo se encuentra desinflada y debemos
+cambiarla.
+¡Describamos cómo resolveríamos esta situación!
+
+Respuesta.
+
+1.ubicar la llanta
+2.abrir maletero
+3.sacar herramientas (gato, llave, llanta etc..)
+4.levantar el auto con el gato
+5.safar tuercas
+6. quitar llanta vieja
+7. colocar nueva
+8.colocar tuercas
+9.retirar gato
+10. guardar herramientas
+11. cerrar maletero
+12. subirse al auto 
+13. encender y irse 
+
+2.
+Consideremos una situación más…
+La preparación de un sándwich de forma “tradicional”.
+
+3. hacer una porcion de gallo pinto.
+
+ubicar el arroz
+ubicar los frijoles
+buscar la cuchara y/o lavar una
+tomar la cuchara 
+revolver 
+buscar un plato o lavar uno
+tomar la cuchara nuevamente 
+colocar el gallo pinto en la cuchara 
+servir en elm plato
+
+4. hacer unos huevos con cebolla y jamon
+prender la cocina
+colocar la sarten 
+colocar -tomar el aseite en la sarten
+esperar a que caliente 
+buscar-tomar-romper dos huevos en la sarten 
+buscar/lavar-tomar cuchara
+con cuchara revolver los huevos
+buscar-lavar-tomar cuchillo
+buscar cebolla-picar la cebolla
+buscar jamon- cortar jamon
+tomar cebolla picada
+colocar en la mescla de huevos
+mezclar 
+apagar cocina
+quitar sarten 
+buscar-lavar plato
+servir en plato con cuchara
+colocar jamon en plato
+
+5.cruzar una calle con el paso peatonal
+
+

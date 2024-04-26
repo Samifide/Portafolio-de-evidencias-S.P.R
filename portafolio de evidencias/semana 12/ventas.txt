@@ -1,0 +1,3 @@
+vendedor 1,23
+vendedor 2,67
+venderdor 3,4343
